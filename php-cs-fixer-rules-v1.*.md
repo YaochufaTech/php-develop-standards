@@ -1,5 +1,5 @@
 # Basic php-cs-fixer rules
-
+# this rule is suitable for php-cs-fixer v1.*
 ```php
 <?php
 
